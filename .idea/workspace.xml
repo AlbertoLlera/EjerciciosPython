@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03dab95e-2649-45a3-8c53-0746d3893b27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculoHoras.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculoHoras.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlbertoLlera&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlbertoLlera/EjerciciosPython.git&quot;,
+    &quot;accountId&quot;: &quot;13007f55-fa83-4396-a655-f4e4ff60b1b6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34dzjDntqtKasSJKKQFCezEHX2y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ExamenAlbertoLlera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.areasFigGeometricas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculoHoras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejemploArgs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer1FuncSaludo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer2FuncIVA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer3FuncUsuarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer4FuncFormatearNombre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer5FuncDescuento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer6FuncPares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer7FuncTabla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejerRepasoClaveParametro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entradas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcionesPizzeria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcionesPrueba1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gandor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moduleAreas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplicaciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.notas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repasoArgs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repasoFunciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repasoFuncionesPrimos2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repasoPrimosFunciones.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/FP_segundo/Python/ut3Ejercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.documentation.PythonDocumentationConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FP_segundo\Python\ut3Ejercicios" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03dab95e-2649-45a3-8c53-0746d3893b27" name="Changes" comment="" />
+      <created>1761558370167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761558370167</updated>
+      <workItem from="1761558372182" duration="1075000" />
+      <workItem from="1761672375242" duration="1186000" />
+      <workItem from="1761755302071" duration="1094000" />
+      <workItem from="1761812786670" duration="4636000" />
+      <workItem from="1761999303852" duration="3000" />
+      <workItem from="1762083550581" duration="3000" />
+      <workItem from="1762417436264" duration="1866000" />
+      <workItem from="1762607752424" duration="6158000" />
+      <workItem from="1762710490120" duration="4000" />
+      <workItem from="1762712413481" duration="1000" />
+      <workItem from="1762715622903" duration="2000" />
+      <workItem from="1762766350981" duration="2823000" />
+      <workItem from="1762889851328" duration="162000" />
+      <workItem from="1762970566852" duration="122000" />
+      <workItem from="1763022956953" duration="4551000" />
+      <workItem from="1763126277031" duration="5521000" />
+      <workItem from="1763229370579" duration="57000" />
+      <workItem from="1763296243861" duration="783000" />
+      <workItem from="1763371068280" duration="3466000" />
+      <workItem from="1763401270192" duration="1733000" />
+      <workItem from="1763570302813" duration="489000" />
+      <workItem from="1763838047008" duration="1889000" />
+      <workItem from="1763984995147" duration="12911000" />
+      <workItem from="1764176402193" duration="587000" />
+      <workItem from="1764231956777" duration="3000" />
+      <workItem from="1764231987319" duration="5079000" />
+      <workItem from="1764581581681" duration="432000" />
+      <workItem from="1764608398914" duration="3000" />
+      <workItem from="1764672136099" duration="2034000" />
+      <workItem from="1764754900963" duration="327000" />
+      <workItem from="1764837119484" duration="596000" />
+      <workItem from="1765278785704" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$repasoPrimosFunciones.coverage" NAME="repasoPrimosFunciones Coverage Results" MODIFIED="1763987405954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$repasoArgs.coverage" NAME="repasoArgs Coverage Results" MODIFIED="1764008333018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$multiplicaciones.coverage" NAME="multiplicaciones Coverage Results" MODIFIED="1763986715333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer2FuncIVA.coverage" NAME="ejer2FuncIVA Coverage Results" MODIFIED="1762608795737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$repasoFunciones.coverage" NAME="repasoFunciones Coverage Results" MODIFIED="1764011888430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$funcionesPizzeria.coverage" NAME="funcionesPizzeria Coverage Results" MODIFIED="1763025340464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer7FuncTabla.coverage" NAME="ejer7FuncTabla Coverage Results" MODIFIED="1762621586450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer3FuncUsuarios.coverage" NAME="ejer3FuncUsuarios Coverage Results" MODIFIED="1762610524110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$areasFigGeometricas.coverage" NAME="areasFigGeometricas Coverage Results" MODIFIED="1763131123492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$entradas.coverage" NAME="entradas Coverage Results" MODIFIED="1763840208878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejerRepasoClaveParametro.coverage" NAME="ejerRepasoClaveParametro Coverage Results" MODIFIED="1764006297576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$gandor.coverage" NAME="gandor Coverage Results" MODIFIED="1763372763561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$notas.coverage" NAME="notas Coverage Results" MODIFIED="1761756241136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer6FuncPares.coverage" NAME="ejer6FuncPares Coverage Results" MODIFIED="1762621279838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer4FuncFormatearNombre.coverage" NAME="ejer4FuncFormatearNombre Coverage Results" MODIFIED="1762768473015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$calculoHoras.coverage" NAME="calculoHoras Coverage Results" MODIFIED="1761755726327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ExamenAlbertoLlera.coverage" NAME="ExamenAlbertoLlera Coverage Results" MODIFIED="1764234356789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer1FuncSaludo.coverage" NAME="ejer1FuncSaludo Coverage Results" MODIFIED="1762608489005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejemploArgs.coverage" NAME="ejemploArgs Coverage Results" MODIFIED="1763024139617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$funcionesPrueba1.coverage" NAME="funcionesPrueba1 Coverage Results" MODIFIED="1763027238705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$repasoFuncionesPrimos2.coverage" NAME="repasoFuncionesPrimos2 Coverage Results" MODIFIED="1764012207771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$ejer5FuncDescuento.coverage" NAME="ejer5FuncDescuento Coverage Results" MODIFIED="1762621014177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ut3Ejercicios$moduleAreas.coverage" NAME="moduleAreas Coverage Results" MODIFIED="1763128109094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
