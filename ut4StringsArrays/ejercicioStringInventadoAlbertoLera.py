@@ -7,7 +7,6 @@ además el usuario solo tendrá tres oportunidades para introducir el mail.
 '''
 
 def validar_email(email):
-    email_valido = False
     if '@' in email and (email.endswith('.com') or email.endswith('.es')):
         return True
 
