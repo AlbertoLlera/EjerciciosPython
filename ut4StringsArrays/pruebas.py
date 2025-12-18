@@ -11,3 +11,10 @@ else:
 
 print(f"La cadena que aprece después alfabéticamente es: {orden_alfabetico}")
 #Hola Raquel
+
+
+
+letras = ["a", "b", "c", "d", "e"]
+
+for letra in letras[::-1]:
+    print(letra)
