@@ -118,3 +118,5 @@ print("Lista con las cadenas:")
 print(lista_cadenas)
 print("Lista con los números:")
 print(lista_numeros)
+
+'''Hacer ejer año feliz y el del DNI'''
