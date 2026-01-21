@@ -6,6 +6,6 @@ def convertir_temperatura(celsius):
 
 celsius = 2
 
-tupla =convertir_temperatura(celsius)
+tupla = convertir_temperatura(celsius)
 
 print(tupla)

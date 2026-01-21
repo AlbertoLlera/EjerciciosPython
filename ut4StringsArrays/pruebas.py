@@ -1,5 +1,6 @@
 #Esta prueba lo que hace es ordenadar alfabeticamente teniendo en cuenta el código ASCII [a-zA-Z]
 #Iría antes hello que world si buscasemos de menor a mayor
+'''
 cadena = "Hello"
 cadena2 = "world"
 
@@ -18,3 +19,7 @@ letras = ["a", "b", "c", "d", "e"]
 
 for letra in letras[::-1]:
     print(letra)
+'''
+
+numero = int(input("Introduce un numero: "))
+print(numero)
